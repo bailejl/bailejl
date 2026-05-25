@@ -1,16 +1,26 @@
-## Hi there 👋
+# Joe Bailey
 
-<!--
-**bailejl/bailejl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Director-level engineering operations leader. I build the operating
+systems that R&D organizations run on — and I build them with AI in
+the loop, not bolted on after.
 
-Here are some ideas to get you started:
+Currently focused on:
+- **AI-native CI/CD** — agent-driven pipelines with eval gates
+- **LLM evaluation systems** — promptfoo-style harnesses wired into delivery
+- **Agentic developer tooling** — Claude Code plugins, MCP servers, multi-agent review loops
+- **R&D operating model design** — value-stream-mapped delivery, telemetry-driven prioritization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's public here
+
+| Repo | What it is |
+|---|---|
+| [dev-plugins](https://github.com/bailejl/dev-plugins) | Claude Code plugin marketplace with built-in evaluation harnesses |
+| [BDD-Driven-AI](https://github.com/bailejl/BDD-Driven-AI) | 5-year-old codebase modernized at 95% AI — with a journey log |
+| [Product-Outcomes](https://github.com/bailejl/Product-Outcomes) | Reference architecture: BDD-gated full-stack delivery |
+
+Most of my current applied AI-ops work runs inside private orgs.
+Reach out for a walkthrough.
+
+## Find me
+
+- LinkedIn: [linkedin.com/in/joe-bailey-eng](https://www.linkedin.com/in/joe-bailey-eng)
