@@ -1,14 +1,13 @@
 # Joe Bailey
 
-Director-level engineering operations leader. I build the operating
-systems that R&D organizations run on — and I build them with AI in
-the loop, not bolted on after.
+Building AI-native CI/CD, LLM evaluation harnesses, and agentic
+developer tooling. AI in the loop, not bolted on after.
 
 Currently focused on:
 - **AI-native CI/CD** — agent-driven pipelines with eval gates
 - **LLM evaluation systems** — promptfoo-style harnesses wired into delivery
 - **Agentic developer tooling** — Claude Code plugins, MCP servers, multi-agent review loops
-- **R&D operating model design** — value-stream-mapped delivery, telemetry-driven prioritization
+- **Operating-model design** — value-stream-mapped delivery, telemetry-driven prioritization
 
 ## What's public here
 
@@ -18,8 +17,7 @@ Currently focused on:
 | [BDD-Driven-AI](https://github.com/bailejl/BDD-Driven-AI) | 5-year-old codebase modernized at 95% AI — with a journey log |
 | [Product-Outcomes](https://github.com/bailejl/Product-Outcomes) | Reference architecture: BDD-gated full-stack delivery |
 
-Most of my current applied AI-ops work runs inside private orgs.
-Reach out for a walkthrough.
+Most of my applied work lives in private repos. Reach out for a walkthrough.
 
 ## Find me
 
