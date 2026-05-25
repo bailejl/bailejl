@@ -1,7 +1,7 @@
 # Joe Bailey
 
 Building AI-native CI/CD, LLM evaluation harnesses, and agentic
-developer tooling. AI in the loop, not bolted on after.
+developer tooling. AI in the loop.
 
 Currently focused on:
 - **AI-native CI/CD** — agent-driven pipelines with eval gates
